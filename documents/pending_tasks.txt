@@ -1,0 +1,9 @@
+Pending sections
+
+Admin interface
+-------------------------
+Need to complete the seeder functionality
+Yajra datatable implementation
+Pagination
+Need to show the logo file in the company listing page
+API with authentication
